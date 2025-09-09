@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Folder Name="/TUnit/">
+    <Project Path="Demo.Tests\Demo.Tests.csproj" Type="Classic C#" />
+    <Project Path="Demo.Test\Demo.Test.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
